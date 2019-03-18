@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-    <a href=""> <img src="images/readme_badges/71EC577ABCDF4D4AE8082BED5D204919.jpg"></a>
+    <a href=""> <img src="images/readme_badges/WechatIMG649.jpeg" width="350" height="175"></a>
     <br>
     <a href=""> <img src="https://img.shields.io/badge/%3E-awesome-red.svg"></a> <a href=""><a href="https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Python"> <img src="https://img.shields.io/badge/%3E-algorithm-red.svg"></a> <a href="https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/Python"> <img src="https://img.shields.io/badge/%3E-leetcode-red.svg"></a> 
 </div>
@@ -48,6 +48,7 @@
 - [Algorithm Archive](https://github.com/algorithm-archivists/algorithm-archive)
 - [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 - [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/java/)
+- [AlgoCasts 用心做好每一个算法视频](https://algocasts.io)
 
 ## Sponsor
 1. [Lisanaaa](https://github.com/Lisanaaa): **Feel free to see my profile and send me an email if you have any job opportunities.**
@@ -69,6 +70,7 @@
 13. [CaviarChen](https://github.com/CaviarChen)
 14. [royIdoodle](https://github.com/royIdoodle)
 15. [MarsXue](https://github.com/MarsXue)
+16. [nature1995](https://github.com/nature1995)
 
 you can make a pull request if you are not in the list above
 ## Pull Request
